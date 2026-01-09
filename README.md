@@ -9,6 +9,8 @@
 |KOSS|2024.01 ~ 2024.12 | 국민대학교 소프트웨어융합대학 소속 동아리 편집부원|
 |KOSS|2025.01 ~ 2025.12 | 국민대학교 소프트웨어융합대학 소속 동아리 편집부장|
 
+<br>
+
 
 <h2> 📚 Software Education Volunteering</h2>
 
@@ -19,6 +21,8 @@
 |2025.08|[인공지능 기초·응용 교육](https://github.com/kmu-koss/2025-1-YongMoon-Voluntary)|용문고등학교|멘토|AI Basic, MLP, PyTorch, Teachable Machine, GPT|
 |2025.08|[라즈베리파이를 이용한<br>스마트미러 제작](https://github.com/kmu-koss/2025-1-HongikHigh-Voluntary)|홍익대학교사범대학<br>부속고등학교|멘토|Git, Linux, CSS, Raspbian|
 |2026.01|[라즈베리파이와 인공지능을<br>활용한 게임 만들기](https://github.com/kmu-koss/2025-2-YongMoon-Voluntary)|용문고등학교|멘토|RL, Gymnasium, PyTorch, Pygame, DQN, Raspbian|
+
+<br>
 
 <h2> 🚀 Projects</h2>
 
@@ -33,11 +37,15 @@
 | 2025.07 ~ 2025.11 | 추천시스템 연구 - UltraGCN |- | 국민대학교 산학프로젝트 <br> (기업 : 인스피언) |
 | 2025.09 ~ 2025.10 | 시민 참여형 지역 개선 플랫폼 “[MiYO](https://github.com/KMU-MiYO/MiYO-Frontend)” | UI/UX Design, Flutter | 제9회 K-PaaS 활용 공모전<br>특별상🏆 (NHN Cloud) |
 
+<br>
+
 <h2> 🏆 Awards </h2>
 
 <p align="center">제9회 개방형 클라우드 플랫폼(K-PaaS) 활용 공모전 서비스 개발 부문 특별상(NHN Cloud)</p>
 
 <p align="center">국민대학교 취창업전략과역량 교과목 - 열정콘서트(스카웃미) 장려상(3등, 국민대학교 경력개발지원단장 상)</p>
+
+<br>
 
 <h2> 🛠️ Languages and Skills <h2>
 
@@ -70,4 +78,6 @@
 </p>
 
 </div>
+
+<br>
 

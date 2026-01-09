@@ -37,7 +37,7 @@
 
 <p align="center">제9회 개방형 클라우드 플랫폼(K-PaaS) 활용 공모전 서비스 개발 부문 특별상(NHN Cloud)</p>
 
-<p align="center">취창업전략과역량 - 열정콘서트(스카웃미) 장려상(3등)</p>
+<p align="center">국민대학교 취창업전략과역량 교과목 - 열정콘서트(스카웃미) 장려상(3등, 국민대학교 경력개발지원단장 상)</p>
 
 <h2> 🛠️ Languages and Skills <h2>
 

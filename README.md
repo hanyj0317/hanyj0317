@@ -30,6 +30,7 @@
 | 2025.02 ~ 2025.02 | 공연 정보 지도 서비스 “[RoundPlay](https://github.com/RoundPlay)” | UI/UX Design, React |  |
 | 2025.01 ~ 2025.05 | 청각 장애인을 위한 수어 서비스 “[온담](https://github.com/ON-Dam)” | UI/UX Design, React |  |
 | 2025.03 ~ 2025.07 | 추천시스템 기반 영화 추천 서비스 “[Filto](https://github.com/25Filto)” |UI/UX Design, Flutter | 국민대학교 산학프로젝트 <br> (기업 : 인스피언) |
+| 2025.07 ~ 2025.11 | 추천시스템 연구 - UltraGCN |- | 국민대학교 산학프로젝트 <br> (기업 : 인스피언) |
 | 2025.09 ~ 2025.10 | 시민 참여형 지역 개선 플랫폼 “[MiYO](https://github.com/KMU-MiYO/MiYO-Frontend)” | UI/UX Design, Flutter | 제9회 K-PaaS 활용 공모전<br>특별상🏆 (NHN Cloud) |
 
 <h2> 🏆 Awards </h2>

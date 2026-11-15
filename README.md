@@ -27,7 +27,7 @@
 | 2026.02 ~ 2026.02 | 와인 검색 서비스 “[openER](https://github.com/open-ER)” | Node.js | 국민대학교 KOSS 동아리 해커톤 |
 | 2026.01 ~ 2026.05 | 시각장애인 보행 보조 AI 애플리케이션 “[길벗](https://github.com/kookmin-sw/2026-capstone-16.git)” | UI/UX Design, Flutter, <br> Project Leader | 🏆 국민대학교 KMUCS-EXPO <br> 캡스톤디자인 대상 <br> 🏆 2026 국민대학교 캡스톤디자인 <br> 아이디어 경진대회 장려상|
 | 2026.01 ~ 2026.10 | 대치2동성당 홈페이지 리뉴얼 | UI/UX Design, React | [홈페이지 바로가기](https://www.dc2.or.kr/) |
-| 2026.05 ~ 2026.06 | 일정 조율 웹 서비스 “[Timing](https://github.com/hanyj0317/timing)” | UI/UX Design, React | [홈페이지 바로가기](https://timing-six.vercel.app/) |
+| 2026.05 ~ 2026.06 | 일정 조율 웹 서비스 “[Timing](https://github.com/hanyj0317/timing)” | UI/UX Design, React, <br> Node.js, Express | [홈페이지 바로가기](https://timing-six.vercel.app/) |
 
 <br>
 

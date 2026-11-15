@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Han%20Yeojin&fontAlignY=40&desc=FrontEnd%20Developer&descSize=30&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Han%20Yeojin&fontAlignY=40&desc=Full-Stack%20Developer&descSize=30&fontSize=90&fontColor=ffffff)
 
 <h2>🎓 Experience & Social Activity</h2>
 

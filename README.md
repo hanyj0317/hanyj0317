@@ -16,18 +16,18 @@
 
 | 기간 | 주제 | 역할 | 비고 |
 |------|------|------|------|
-| 2024.02 ~ 2024.03 | 대학생 투두리스트 앱 “Uni-Todo" | UI/UX Design, Flutter |  |
-| 2024.03 ~ 2024.06 | 포트폴리오 관리 서비스 “[fofol](https://github.com/hanyj0317/2024-1_Fofo_FofolProject)” | UI/UX Design, React |  |
-| 2024.07 ~ 2024.08 | 건강관리 앱 “[LBCB](https://github.com/hanyj0317/LBCBProject)” | UI/UX Design, Flutter |  |
-| 2025.02 ~ 2025.02 | 공연 정보 지도 서비스 “[RoundPlay](https://github.com/RoundPlay)” | UI/UX Design, React | 국민대학교 KOSS 동아리 해커톤 |
-| 2025.01 ~ 2025.05 | 청각 장애인을 위한 수어 서비스 “[온담](https://github.com/ON-Dam)” | UI/UX Design, React |  |
-| 2025.03 ~ 2025.07 | 추천시스템 기반 영화 추천 서비스 “[Filto](https://github.com/25Filto)” |UI/UX Design, Flutter | 국민대학교 산학프로젝트 <br> (기업 : 인스피언) |
-| 2025.07 ~ 2025.11 | 추천시스템 연구 - UltraGCN |- | 국민대학교 산학프로젝트 <br> (기업 : 인스피언) |
-| 2025.09 ~ 2025.10 | 시민 참여형 지역 개선 플랫폼 “[MiYO](https://github.com/KMU-MiYO/MiYO-Frontend)” | UI/UX Design, Flutter | 🏆 제9회 K-PaaS 활용 공모전<br>특별상(NHN Cloud) |
-| 2026.02 ~ 2026.02 | 와인 검색 서비스 “[openER](https://github.com/open-ER)” | Node.js | 국민대학교 KOSS 동아리 해커톤 |
-| 2026.01 ~ 2026.05 | 시각장애인 보행 보조 AI 애플리케이션 “[길벗](https://github.com/kookmin-sw/2026-capstone-16.git)” | UI/UX Design, Flutter, <br> Project Leader | 🏆 국민대학교 KMUCS-EXPO <br> 캡스톤디자인 대상 <br> 🏆 2026 국민대학교 캡스톤디자인 <br> 아이디어 경진대회 장려상|
-| 2026.01 ~ 2026.10 | 대치2동성당 홈페이지 리뉴얼 | UI/UX Design, React | [홈페이지 바로가기](https://www.dc2.or.kr/) |
 | 2026.05 ~ 2026.06 | 일정 조율 웹 서비스 “[Timing](https://github.com/hanyj0317/timing)” | UI/UX Design, React, <br> Node.js, Express | [홈페이지 바로가기](https://timing-six.vercel.app/) |
+| 2026.02 ~ 2026.02 | 와인 검색 서비스 “[openER](https://github.com/open-ER)” | Node.js | 국민대학교 KOSS 동아리 해커톤 |
+| 2026.01 ~ 2026.10 | 대치2동성당 홈페이지 리뉴얼 | UI/UX Design, React | [홈페이지 바로가기](https://www.dc2.or.kr/) |
+| 2026.01 ~ 2026.05 | 시각장애인 보행 보조 AI 애플리케이션 “[길벗](https://github.com/kookmin-sw/2026-capstone-16.git)” | UI/UX Design, Flutter, <br> Project Leader | 🏆 국민대학교 KMUCS-EXPO <br> 캡스톤디자인 대상 <br> 🏆 2026 국민대학교 캡스톤디자인 <br> 아이디어 경진대회 장려상|
+| 2025.09 ~ 2025.10 | 시민 참여형 지역 개선 플랫폼 “[MiYO](https://github.com/KMU-MiYO/MiYO-Frontend)” | UI/UX Design, Flutter | 🏆 제9회 K-PaaS 활용 공모전<br>특별상(NHN Cloud) |
+| 2025.07 ~ 2025.11 | 추천시스템 연구 - UltraGCN |- | 국민대학교 산학프로젝트 <br> (기업 : 인스피언) |
+| 2025.03 ~ 2025.07 | 추천시스템 기반 영화 추천 서비스 “[Filto](https://github.com/25Filto)” |UI/UX Design, Flutter | 국민대학교 산학프로젝트 <br> (기업 : 인스피언) |
+| 2025.01 ~ 2025.05 | 청각 장애인을 위한 수어 서비스 “[온담](https://github.com/ON-Dam)” | UI/UX Design, React |  |
+| 2025.02 ~ 2025.02 | 공연 정보 지도 서비스 “[RoundPlay](https://github.com/RoundPlay)” | UI/UX Design, React | 국민대학교 KOSS 동아리 해커톤 |
+| 2024.07 ~ 2024.08 | 건강관리 앱 “[LBCB](https://github.com/hanyj0317/LBCBProject)” | UI/UX Design, Flutter |  |
+| 2024.03 ~ 2024.06 | 포트폴리오 관리 서비스 “[fofol](https://github.com/hanyj0317/2024-1_Fofo_FofolProject)” | UI/UX Design, React |  |
+| 2024.02 ~ 2024.03 | 대학생 투두리스트 앱 “Uni-Todo" | UI/UX Design, Flutter |  |
 
 <br>
 

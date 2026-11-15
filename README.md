@@ -12,19 +12,6 @@
 
 <br>
 
-
-<h2> 📚 Software Education Volunteering</h2>
-
-| 기간 | 주제 | 장소 | 역할 | 비고 |
-|----------|------|------|------|------|
-|2024.08|[웹 기초 및 Git Blog 제작](https://github.com/kmu-koss/2024-1-YongMoon-Voluntary)|용문고등학교|멘토|HTML & CSS, JavaScript, MarkDown, Git Blog|
-|2025.02|엔트리를 활용한 AI 교육|청주시립도서관<br>다함께돌봄센터|멘토|AI Basic, Entry, Block Coding|
-|2025.08|[인공지능 기초·응용 교육](https://github.com/kmu-koss/2025-1-YongMoon-Voluntary)|용문고등학교|멘토|AI Basic, MLP, PyTorch, Teachable Machine, GPT|
-|2025.08|[라즈베리파이를 이용한<br>스마트미러 제작](https://github.com/kmu-koss/2025-1-HongikHigh-Voluntary)|홍익대학교사범대학<br>부속고등학교|멘토|Git, Linux, CSS, Raspbian|
-|2026.01|[라즈베리파이와 인공지능을<br>활용한 게임 만들기](https://github.com/kmu-koss/2025-2-YongMoon-Voluntary)|용문고등학교|멘토|RL, Gymnasium, PyTorch, Pygame, DQN, Raspbian|
-
-<br>
-
 <h2> 🚀 Projects</h2>
 
 | 기간 | 주제 | 역할 | 비고 |
@@ -52,6 +39,18 @@
 <p align="center">국민대학교 소프트웨어융합대학 <a href="https://expo.cs.kookmin.ac.kr/results/"> KMUCS-EXPO </a> 캡스톤디자인 졸업 작품 전시회 대상</p>
 
 <p align="center">2026 국민대학교 캡스톤디자인 아이디어 경진대회 장려상</p>
+
+<br>
+
+<h2> 📚 Software Education Volunteering</h2>
+
+| 기간 | 주제 | 장소 | 역할 | 비고 |
+|----------|------|------|------|------|
+|2024.08|[웹 기초 및 Git Blog 제작](https://github.com/kmu-koss/2024-1-YongMoon-Voluntary)|용문고등학교|멘토|HTML & CSS, JavaScript, MarkDown, Git Blog|
+|2025.02|엔트리를 활용한 AI 교육|청주시립도서관<br>다함께돌봄센터|멘토|AI Basic, Entry, Block Coding|
+|2025.08|[인공지능 기초·응용 교육](https://github.com/kmu-koss/2025-1-YongMoon-Voluntary)|용문고등학교|멘토|AI Basic, MLP, PyTorch, Teachable Machine, GPT|
+|2025.08|[라즈베리파이를 이용한<br>스마트미러 제작](https://github.com/kmu-koss/2025-1-HongikHigh-Voluntary)|홍익대학교사범대학<br>부속고등학교|멘토|Git, Linux, CSS, Raspbian|
+|2026.01|[라즈베리파이와 인공지능을<br>활용한 게임 만들기](https://github.com/kmu-koss/2025-2-YongMoon-Voluntary)|용문고등학교|멘토|RL, Gymnasium, PyTorch, Pygame, DQN, Raspbian|
 
 <br>
 
